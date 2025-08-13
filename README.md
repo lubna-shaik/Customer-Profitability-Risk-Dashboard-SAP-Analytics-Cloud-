@@ -52,10 +52,11 @@ The dataset is **synthetically generated** with realistic financial attributes t
 ---
 
 ## 🚀 Getting Started
-1. Open the SAP Analytics Cloud platform.
+1. Open the SAP Analytics Cloud platform.(30 days trail for free)
 2. Import the provided model and dataset.
 3. Explore the dashboard using filters and the **Just Ask AI** tool.
 
 ---
 
+**Note:** Could not include a full dashboard screenshot due to account access issues at the time of export.  
 **Author:** Lubna Shaikh
